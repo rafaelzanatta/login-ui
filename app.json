@@ -1,4 +1,14 @@
 {
   "name": "login-ui",
-  "slug": "login-ui"
+  "slug": "login-ui",
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "dd7839de-67bf-4a0d-ac87-e56e6fe64d5e"
+      }
+    },
+    "android": {
+      "package": "com.zanatta.loginui"
+    }
+  }
 }
